@@ -1,6 +1,6 @@
 # How to Create your own LLM Agent from Scratch
 
-Welcome to the repository ! This project is a result of our efforts to create a powerful and flexible language generation system from scratch.
+Welcome to the repository ! This project is a result of our efforts to create a powerful and flexible LLM Agent from scratch.
 
 ## Overview
 
