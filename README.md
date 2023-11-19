@@ -1,5 +1,5 @@
 # How to Create your own LLM Agent from Scratch
-![LLM Agent](example.png)
+![LLM Agent](architecture.png)
 Welcome to the repository ! This project is a result of our efforts to create a powerful and flexible LLM Agent from scratch.
 
 ## Overview
